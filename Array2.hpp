@@ -1,5 +1,6 @@
 // File "Array2.hpp" created April 2019
 // Copyright (c) Lion Kortlepel 2019
+// Licensed under MIT
 #ifndef TEMPION_ARRAY2_HPP
 #define TEMPION_ARRAY2_HPP
 
